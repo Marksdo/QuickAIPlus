@@ -12,3 +12,5 @@ Download [the latest release from macOS appstore](https://apps.apple.com/us/app/
 ![preview3](imgs/preview3.webp)
 
 ![preview4](imgs/preview4.webp)
+
+![preview5](imgs/preview5.webp)
